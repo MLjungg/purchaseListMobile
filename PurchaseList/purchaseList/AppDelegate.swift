@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  PurchaseList
+//  purchaseList
 //
 //  Created by Mikael on 2020-08-30.
 //  Copyright © 2020 Mikael. All rights reserved.
